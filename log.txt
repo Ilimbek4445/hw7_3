@@ -1,0 +1,37 @@
+Текущая цена биткоина: 25841.32 $
+Текущая цена биткоина: 25841.37 $
+Текущая цена биткоина: 25841.33 $
+Текущая цена биткоина: 25841.32 $
+Текущая цена биткоина: 25841 $
+Текущая цена биткоина: 25841 $
+Текущая цена биткоина: 25841 $
+Текущая цена биткоина: 25841 $
+asdasd: 25839.29 $
+asdasd: 25839.27 $
+asdasd: 25839.26 $
+asdasd: 25839.24 $
+asdasd: 25839.24 $
+asdasd: 25839.29 $
+asdasd: 25839.29 $
+price now: 25839.17 $
+price now: 25839.16 $
+price now: 25839.13 $
+price now: 25839.11 $
+price now: 25839.1 $
+price now: 25838.97 $
+price now: 25838.91 $
+price now: 25838.74 $
+price now: 25838.59 $
+price now: 25838.49 $
+price now: 25838.33 $
+price now: 25838.28 $
+price now: 25838.11 $
+price now: 25837.87 $
+price now: 115535.58 $
+price now: 115535.58 $
+Ошибка при выполнении запроса: HTTPSConnectionPool(host='api.binanc.com', port=443): Max retries exceeded with url: /api/v3/avgPrice?symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001CBB37E3E90>: Failed to resolve 'api.binanc.com' ([Errno 11001] getaddrinfo failed)"))
+Ошибка при выполнении запроса: HTTPSConnectionPool(host='api.binanc.com', port=443): Max retries exceeded with url: /api/v3/avgPrice?symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001CBB37F9F90>: Failed to resolve 'api.binanc.com' ([Errno 11001] getaddrinfo failed)"))
+Error: HTTPSConnectionPool(host='api.binanc.com', port=443): Max retries exceeded with url: /api/v3/avgPrice?symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000276E8453ED0>: Failed to resolve 'api.binanc.com' ([Errno 11001] getaddrinfo failed)"))
+Error: HTTPSConnectionPool(host='api.binanc.com', port=443): Max retries exceeded with url: /api/v3/avgPrice?symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000276E846A090>: Failed to resolve 'api.binanc.com' ([Errno 11001] getaddrinfo failed)"))
+Error: HTTPSConnectionPool(host='api.binanc.com', port=443): Max retries exceeded with url: /api/v3/avgPrice?symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000276E8450890>: Failed to resolve 'api.binanc.com' ([Errno 11001] getaddrinfo failed)"))
+Error: HTTPSConnectionPool(host='api.binanc.com', port=443): Max retries exceeded with url: /api/v3/avgPrice?symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000276E8468A50>: Failed to resolve 'api.binanc.com' ([Errno 11001] getaddrinfo failed)"))
